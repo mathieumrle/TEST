@@ -1,4 +1,6 @@
 # TP1 - Prise en main de Linux
+Par Mathieu MERLE - BTS SIO 1
+
 ## Exercice 1
 
 Depuis le répertoire `/home/mathieu` j'ai créé l'arborescence  avec les commandes suivantes :
